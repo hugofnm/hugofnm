@@ -1,6 +1,6 @@
-<p align="center">
-    # Bonjour, je suis hugofnm, fondateur du projet METRIX. 👋
-   
+# Bonjour, je suis hugofnm, fondateur du projet METRIX. 👋
+
+<p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=hugofnm&show_icons=true&theme=tokyonight">
 </p>
 
