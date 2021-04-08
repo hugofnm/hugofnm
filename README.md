@@ -1,6 +1,8 @@
 # Bonjour, je suis hugofnm, fondateur du projet METRIX. 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=hugofnm&show_icons=true&theme=tokyonight">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hugofnm&show_icons=true&theme=tokyonight">
+</p>
 
 # Mes projets en cours :
 
