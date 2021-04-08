@@ -12,4 +12,10 @@
 ### 🔥 Statut Metrix : <a href="https://status.metrix.cf">status.metrix.cf</a>
 ### 🧑‍🔧 S.A.V. : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
 ### 📩 Réception de codes : <a href="https://access.metrix.cf">access.metrix.cf</a>
-### ☁️ Drive Metrix : <a href="https://drive.metrix.cf">drive.metrix.cf</a>
+### ☁️ Drive-Metrix : <a href="https://drive.metrix.cf">drive.metrix.cf</a>
+### ⬇️ Torrent-Metrix : En construction
+
+# Me soutenir : 
+
+### <a href="https://paypal.me/hugofnm/">Via PayPal 🔒</a>
+### <a href="https://metrix.cf/funding">Via Metrix (Stripe) 🔒</a>
