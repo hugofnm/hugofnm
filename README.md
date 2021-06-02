@@ -6,9 +6,9 @@
 
 # Mes projets en cours 📋 :
 
-### ✔️ Site officiel MetrixMedia : <a href="https://hello.metrix.cf">hello.metrix.cf</a>
-### 🛒 Boutique Metrix : <a href="https://metrix.cf">metrix.cf</a>
-### 🎮 Boutique MetrixJV : <a href="https://steam.metrix.cf">steam.metrix.cf</a>
+### ✔️ Site officiel MetrixMedia : <a href="https://hello.metrix.cf">hello.metrix.cf</a> / <a href="https://metrixmedia.fr">metrixmedia.fr</a>
+### 🛒 Boutique Metrix : <a href="https://metrix.cf">metrix.cf</a> / <a href="https://shop.metrixmedia.fr">shop.metrixmedia.fr</a>
+### 🎮 Boutique MetrixJV : <a href="https://steam.metrix.cf">steam.metrix.cf</a> / <a href="https://jv.metrixmedia.fr">jv.metrixmedia.fr</a>
 ### 🔥 MetrixStatus : <a href="https://status.metrix.cf">status.metrix.cf</a>
 ### 🧑‍🔧 MetrixSAV : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
 ### 📩 Réception de codes : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
