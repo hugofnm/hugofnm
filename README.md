@@ -17,5 +17,5 @@
 
 # Me soutenir : 
 
-### <a href="https://paypal.me/hugofnm/">Via PayPal 🔒</a>
+### <a href="https://paypal.me/ougau/">Via PayPal 🔒</a>
 ### <a href="https://metrix.cf/funding">Via Metrix (Stripe) 🔒</a>
