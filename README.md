@@ -1,4 +1,4 @@
-# Bonjour, je suis hugofnm, fondateur du projet METRIX. 👋
+# I'm hugofnm, dev @ MetrixMedia group.
 
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=hugofnm&show_icons=true&theme=tokyonight">
