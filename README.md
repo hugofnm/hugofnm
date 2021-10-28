@@ -20,4 +20,4 @@
 # Me soutenir : 
 
 ### <a href="https://paypal.me/ougau/">Via PayPal 🔒</a>
-### <a href="https://metrix.cf/funding">Via Metrix (Stripe) 🔒</a>
+### <a href="https://buy.stripe.com/3csaFkajK78zaE85kl">Via Stripe (Apple Pay/Google Pay) 🔒</a>
