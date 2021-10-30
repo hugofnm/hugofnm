@@ -10,7 +10,7 @@
 
 ### ✅ Site officiel MetrixMedia : <a href="https://metrixmedia.fr">metrixmedia.fr</a>
 ### 🛒 Boutique Metrix : <a href="https://shop.metrixmedia.fr">shop.metrixmedia.fr</a>
-- ⬇️ MetrixTorrent : <a href="https://www.metrix.cf/divers/torrentdownloader">metrix.cf</a>
+- ⬇️ MetrixTorrent : <a href="https://shop.metrixmedia.fr/divers/torrentdownloader">metrixmedia.fr</a>
 - 🧑‍🔧 MetrixSAV : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
 - 📩 Réception de codes : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
 - ☁️ MetrixDrive : <a href="https://drive.metrixmedia.fr">drive.metrixmedia.fr</a>
