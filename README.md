@@ -15,15 +15,20 @@
 ### 🤖 DrunkCat Bot Website : <a href="https://drunkcat.hugofnm.fr">drunkcat.hugofnm.fr</a>
 ### 🔥 hugofnmStatus : <a href="https://status.hugofnm.fr">status.hugofnm.fr</a>
 
+
 ## MetrixMedia
-### ✅ Site officiel MetrixMedia : <a href="https://metrixmedia.fr">metrixmedia.fr</a>
-### 🛒 Boutique Metrix : <a href="https://shop.metrixmedia.fr">shop.metrixmedia.fr</a>
-- ⬇️ MetrixTorrent : <a href="https://shop.metrixmedia.fr/divers/torrentdownloader">metrixmedia.fr</a>
-- 🧑‍🔧 MetrixSAV : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
-- 📩 Réception de codes : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
-- ☁️ MetrixDrive : <a href="https://drive.metrixmedia.fr">drive.metrixmedia.fr</a>
-### 🎮 Boutique MetrixJV : <a href="https://jv.metrixmedia.fr">jv.metrixmedia.fr</a>
-### 🔥 MetrixStatus : <a href="https://status.metrix.cf">status.metrix.cf</a>
+<details>
+  <summary>Cliquez ici !</summary>
+    
+  ### ✅ Site officiel MetrixMedia : <a href="https://metrixmedia.fr">metrixmedia.fr</a>
+  ### 🛒 Boutique Metrix : <a href="https://shop.metrixmedia.fr">shop.metrixmedia.fr</a>
+  - ⬇️ MetrixTorrent : <a href="https://shop.metrixmedia.fr/divers/torrentdownloader">metrixmedia.fr</a>
+  - 🧑‍🔧 MetrixSAV : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
+  - 📩 Réception de codes : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
+  - ☁️ MetrixDrive : <a href="https://drive.metrixmedia.fr">drive.metrixmedia.fr</a>
+  ### 🎮 Boutique MetrixJV : <a href="https://jv.metrixmedia.fr">jv.metrixmedia.fr</a>
+  ### 🔥 MetrixStatus : <a href="https://status.metrix.cf">status.metrix.cf</a>
+</details>
 
 # Me soutenir : 
 - <a href="https://paypal.me/ougau/">Via PayPal 🔒</a>
