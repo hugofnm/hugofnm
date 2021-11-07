@@ -12,6 +12,7 @@
 ### 🧩 hugofnmAPI :
 - 🔗 Link Generator : <a href="https://link.hugofnm.fr">link.hugofnm.fr</a>
 - ♨️ GitHub Links : <a href="https://git.hugofnm.fr">git.hugofnm.fr</a>
+- 😎 hugofnmAPI : <a href="https://api.hugofnm.fr">api.hugofnm.fr</a>
 ### 🤖 DrunkCat Bot Website : <a href="https://drunkcat.hugofnm.fr">drunkcat.hugofnm.fr</a>
 ### 🔥 hugofnmStatus : <a href="https://status.hugofnm.fr">status.hugofnm.fr</a>
 
