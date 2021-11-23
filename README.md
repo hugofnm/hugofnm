@@ -4,6 +4,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hugofnm&show_icons=true&theme=tokyonight">
 </p>
 
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=hugofnm&style=flat-square">
+</p>
+
 # Mes projets en cours 📋 :
 
 ## Projets personnels
