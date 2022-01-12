@@ -1,4 +1,4 @@
-# Bonjour à vous :), je suis hugofnm, étudiant à @EPITA et développeur chez @MetrixMedia
+# Bonjour à vous :), je suis hugofnm, étudiant à @EPITA
 
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=hugofnm&show_icons=true&theme=tokyonight">
@@ -10,6 +10,10 @@
 
 # Mes projets en cours 📋 :
 
+## Projets éducatifs
+
+### 🌌 Nyctalopia : [https://github.com/nyctalopia](Nyctalopia)
+
 ## Projets personnels
 
 ### 🥴 hugofnmWebsite : <a href="https://hugofnm.fr">hugofnm.fr</a>
@@ -19,11 +23,8 @@
 - 😎 hugofnmAPI : <a href="https://api.hugofnm.fr">api.hugofnm.fr</a>
 ### 🤖 DrunkCat Bot Website : <a href="https://drunkcat.hugofnm.fr">drunkcat.hugofnm.fr</a>
 ### 🔥 hugofnmStatus : <a href="https://status.hugofnm.fr">status.hugofnm.fr</a>
-
-
-## MetrixMedia
 <details>
-  <summary>Cliquez ici !</summary>
+  <summary>Projet MetrixMedia : cliquez ici !</summary>
     
   ### ✅ Site officiel MetrixMedia : <a href="https://metrixmedia.fr">metrixmedia.fr</a>
   ### 🛒 Boutique Metrix : <a href="https://shop.metrixmedia.fr">shop.metrixmedia.fr</a>
@@ -37,5 +38,4 @@
 
 # Me soutenir : 
 - <a href="https://paypal.me/ougau/">Via PayPal 🔒</a>
-- <a href="https://buy.stripe.com/3csaFkajK78zaE85kl">Via Stripe (Apple Pay/Google Pay) 🔒</a>
 - <a href="https://revolut.me/hugofnm">Via Revolut (Apple Pay/Google Pay) 🔒</a>
