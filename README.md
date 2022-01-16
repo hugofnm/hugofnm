@@ -12,7 +12,7 @@
 
 ## Projets éducatifs
 
-### 🌌 Nyctalopia : [https://github.com/nyctalopia](Nyctalopia)
+### 🌌 Nyctalopia : <a href="https://github.com/nyctalopia">@nyctalopia</a>
 
 ## Projets personnels
 
