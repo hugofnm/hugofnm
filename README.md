@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=hugofnm&style=flat-square">
 </p>
 
-# Mes projets en cours 📋 :
+# Mes projets 📋 :
 
 ## Projets éducatifs
 
@@ -35,7 +35,3 @@
   ### 🎮 Boutique MetrixJV : <a href="https://jv.metrixmedia.fr">jv.metrixmedia.fr</a>
   ### 🔥 MetrixStatus : <a href="https://status.metrix.cf">status.metrix.cf</a>
 </details>
-
-# Me soutenir : 
-- <a href="https://paypal.me/ougau/">Via PayPal 🔒</a>
-- <a href="https://revolut.me/hugofnm">Via Revolut (Apple Pay/Google Pay) 🔒</a>
