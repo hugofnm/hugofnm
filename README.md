@@ -1,4 +1,4 @@
-# Bonjour à vous :), je suis hugofnm, étudiant à @EPITA
+# @hugofnm's GitHub profile page :)
 
 <p align="center"> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugofnm&theme=tokyonight&hide_border=true">
@@ -29,9 +29,9 @@
   ### ✅ Site officiel MetrixMedia : <a href="https://metrixmedia.fr">metrixmedia.fr</a>
   ### 🛒 Boutique Metrix : <a href="https://shop.metrixmedia.fr">shop.metrixmedia.fr</a>
   - ⬇️ MetrixTorrent : <a href="https://shop.metrixmedia.fr/divers/torrentdownloader">metrixmedia.fr</a>
-  - 🧑‍🔧 MetrixSAV : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
+  - 🧑‍🔧 MetrixSAV : <a href="https://sav.metrixmedia.fr">sav.metrixmedia.fr</a>
   - 📩 Réception de codes : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
   - ☁️ MetrixDrive : <a href="https://drive.metrixmedia.fr">drive.metrixmedia.fr</a>
   ### 🎮 Boutique MetrixJV : <a href="https://jv.metrixmedia.fr">jv.metrixmedia.fr</a>
-  ### 🔥 MetrixStatus : <a href="https://status.metrix.cf">status.metrix.cf</a>
+  ### 🔥 MetrixStatus : <a href="https://status.metrixmedia.fr/">status.metrixmedia.fr/</a>
 </details>
