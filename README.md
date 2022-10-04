@@ -10,28 +10,14 @@
 
 # Mes projets 📋 :
 
-## Projets éducatifs
-
 ### 🌌 Nyctalopia : <a href="https://github.com/nyctalopia">@nyctalopia</a>
 
-## Projets personnels
-
 ### 🥴 hugofnmWebsite : <a href="https://hugofnm.fr">hugofnm.fr</a>
-### 🧩 hugofnmAPI :
-- 🔗 Link Generator : <a href="https://link.hugofnm.fr">link.hugofnm.fr</a>
-- ♨️ GitHub Links : <a href="https://git.hugofnm.fr">git.hugofnm.fr</a>
-- 😎 hugofnmAPI : <a href="https://api.hugofnm.fr">api.hugofnm.fr</a>
 ### 🤖 DrunkCat Bot Website : <a href="https://drunkcat.hugofnm.fr">drunkcat.hugofnm.fr</a>
 ### 🔥 hugofnmStatus : <a href="https://status.hugofnm.fr">status.hugofnm.fr</a>
-<details>
-  <summary>Projet MetrixMedia : cliquez ici !</summary>
-    
-  ### ✅ Site officiel MetrixMedia : <a href="https://metrixmedia.fr">metrixmedia.fr</a>
-  ### 🛒 Boutique Metrix : <a href="https://shop.metrixmedia.fr">shop.metrixmedia.fr</a>
-  - ⬇️ MetrixTorrent : <a href="https://shop.metrixmedia.fr/divers/torrentdownloader">metrixmedia.fr</a>
-  - 🧑‍🔧 MetrixSAV : <a href="https://sav.metrixmedia.fr">sav.metrixmedia.fr</a>
-  - 📩 Réception de codes : <a href="https://sav.metrix.cf">sav.metrix.cf</a>
-  - ☁️ MetrixDrive : <a href="https://drive.metrixmedia.fr">drive.metrixmedia.fr</a>
-  ### 🎮 Boutique MetrixJV : <a href="https://jv.metrixmedia.fr">jv.metrixmedia.fr</a>
-  ### 🔥 MetrixStatus : <a href="https://status.metrixmedia.fr/">status.metrixmedia.fr/</a>
-</details>
+### ✅ Site officiel MetrixMedia : <a href="https://metrixmedia.fr">metrixmedia.fr</a>
+### 🛒 Boutique Metrix : <a href="https://shop.metrixmedia.fr">shop.metrixmedia.fr</a>
+- ⬇️ MetrixTorrent : <a href="https://shop.metrixmedia.fr/divers/torrentdownloader">metrixmedia.fr</a>
+- 🧑‍🔧 MetrixSAV : <a href="https://sav.metrixmedia.fr">sav.metrixmedia.fr</a>
+- ☁️ MetrixDrive : <a href="https://drive.metrixmedia.fr">drive.metrixmedia.fr</a>
+### 🔥 MetrixStatus : <a href="https://status.metrixmedia.fr/">status.metrixmedia.fr</a>
