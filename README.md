@@ -36,4 +36,4 @@
 #### ✅ Site officiel MetrixMedia : <a href="https://metrixmedia.fr">metrixmedia.fr</a>
 #### 🔥 MetrixStatus : <a href="https://status.metrixmedia.fr/">status.metrixmedia.fr</a>
 
-### Contact 📫 : contact@hugofnm.fr
+### Contact 📫 : contact [at] hugofnm [dot] fr
