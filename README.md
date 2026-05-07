@@ -4,7 +4,10 @@
     <img src="https://komarev.com/ghpvc/?username=hugofnm&style=flat-square">
 </p>
 
-## Skills 🔧 :
+#### My website : <a href="https://hugofnm.fr">hugofnm.fr</a>
+#### MetrixMedia : <a href="https://metrixmedia.fr">metrixmedia.fr</a>
+
+### Skills 🔧 :
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -21,10 +24,5 @@
 ![ARM mbed](https://img.shields.io/badge/mbed%20OS-0091BD?style=for-the-badge&logo=ARM&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## Other 📋 :
-
-#### 🥴 hugofnmWebsite : <a href="https://hugofnm.fr">hugofnm.fr</a>
-#### 🌊 MetrixMedia : <a href="https://metrixmedia.fr">metrixmedia.fr</a>
 
 ### Contact 📫 : contact [at] hugofnm [dot] fr
